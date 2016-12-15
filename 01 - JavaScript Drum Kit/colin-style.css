@@ -9,10 +9,21 @@ body,html {
   font-family: sans-serif;
 }
 
+.title {
+  display: flex;
+  flex: 1;
+  min-height: 20vh;
+  align-items: center;
+  justify-content: center;
+  font-family: Gloria Hallelujah;
+  font-size: 5rem;
+  color: white;
+}
+
 .keys {
   display:flex;
   flex:1;
-  min-height:100vh;
+  min-height:30vh;
   align-items: center;
   justify-content: center;
 }

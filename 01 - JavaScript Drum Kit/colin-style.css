@@ -38,8 +38,13 @@ body,html {
   min-width:50px;
   text-align: center;
   color:white;
-  background:rgba(0,0,0,0.4);
+  background:rgba(247,247,247,0.7);
   text-shadow:0 0 5px black;
+}
+
+.black-key {
+  background: rgba(1,1,1,0.4);
+  height: 100px;
 }
 
 .playing {
